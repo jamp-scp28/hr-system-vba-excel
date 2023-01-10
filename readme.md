@@ -1,27 +1,34 @@
-# Scripts and Useful Apps
+# HHRR SYSTEM VBA EXCEL
 
 [![MIT](https://poser.pugx.org/pixel418/markdownify/license)](https://opensource.org/licenses/MIT)
 
 
-# Human Resources Managment System (Not longer maintained)
+# Human Resources Managment System vba-excel (Not longer maintained)
 
-HRMS Developed in Visual Basic for Applications in Excel, includes several modules to manage employee data, reports, document creation with words templates.
+HRMS Developed in Visual Basic for Applications in Excel for a company back in 2018, it includes several modules to manage employee data, reports, absenteeism records, and document creation with MS WORD templates.
 
-[![HRMS](https://firebasestorage.googleapis.com/v0/b/myprojects-37d11.appspot.com/o/Portafolio%2Fportafolio%2Fimage.png?alt=media&token=261f5dda-d41b-40b1-88f2-c6a4a0fb3b1a)](https://github.com/jamp-scp28/ScriptsAndUsefulApps)
+User & Password to Login
+--------
+User: SUPERUSER
+Password: SCP2810
 
-[![HRMS](https://firebasestorage.googleapis.com/v0/b/myprojects-37d11.appspot.com/o/Portafolio%2Fportafolio%2Fvideo.gif?alt=media&token=98330db9-9ff8-45cb-9a61-2bc538b0c0ff)](https://github.com/jamp-scp28/ScriptsAndUsefulApps)
+Password to open code editor 
+--------
+Jorge**2810SCP
+
+Screenshots
+--------
+
+[![HRMS](https://firebasestorage.googleapis.com/v0/b/project-jamp.appspot.com/o/hrms.gif?alt=media&token=8fec28d5-a8f5-45b9-93ad-57fc2b1e5631)](https://github.com/jamp-scp28/hr-system-vba-excel)
+
+[![HRMS](https://firebasestorage.googleapis.com/v0/b/project-jamp.appspot.com/o/hrms1.PNG?alt=media&token=cd52732a-1912-435b-87b5-a63b364c0e70)](https://github.com/jamp-scp28/hr-system-vba-excel)
 
 Tools
 --------
 
-**:star: Visual Basic for Applications.**
-
-**:star: Python.**
-
-**:star: AppScripts.**
-
+**:star: Visual Basic for Applications (VBA)**
 
 Author
 --------
 
-Jorge Armando Molano Prada @2020-2022
+Jorge Armando Molano Prada @2018-2020
