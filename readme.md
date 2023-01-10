@@ -5,7 +5,7 @@
 
 # Human Resources Managment System vba-excel (Not longer maintained)
 
-HRMS Developed in Visual Basic for Applications in Excel for a company back in 2018, it includes several modules to manage employee data, reports, absenteeism records, and document creation with MS WORD templates.
+HRMS Developed in Visual Basic for Applications in Excel for a company back in 2019, it includes several modules to manage employee data, reports, absenteeism records, and document creation with MS WORD templates.
 
 User & Password to Login
 --------
@@ -31,4 +31,4 @@ Tools
 Author
 --------
 
-Jorge Armando Molano Prada @2018-2020
+Jorge Armando Molano Prada @2019-2020
